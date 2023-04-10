@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Solomon's Blog!
 #
 # This config file is meant for settings that affect your whole blog.
 #
@@ -6,16 +6,20 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: FutureForge
+description: Hi, I'm Solomon! I'm an Electronics and Communication engineer originally from Chennai, India. From a young age, I've always been passionate about Robotics, Embedded Systems, and AI/ML. I love building systems and finding innovative ways to solve problems using these technologies.
+
+For over 13 years, I had the privilege of working at Cisco Systems in Services, Operations, and Engineering. During my time there, I had the opportunity to build and implement complex systems, further honing my skills in the field.
+
+Now, I'm focusing on learning more about ML to build even more advanced robots and embedded systems. I'm excited about the possibilities that this technology brings and I can't wait to see where it takes me next. I'm driven by my love for cutting-edge technology and the potential it has to change the world.
+github_username: ichireisan
 
 # Email and twitter are optional:
-email:
+email: 
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
